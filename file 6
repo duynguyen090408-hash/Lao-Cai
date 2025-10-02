@@ -1,0 +1,4 @@
+/* Thêm style tùy chỉnh nếu muốn, ví dụ: */
+.App {
+  text-align: center;
+}
